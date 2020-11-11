@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<student_results>
+	<student>
+		<personal_details>
+			<name>Pace, Camden G.</name>
+			<id_number>16430122-1521</id_number>
+		</personal_details>		
+		<assesment>
+			<subject>maths</subject>
+			<title>test1</title>
+			<result>54%</result>
+		</assesment>
+		<assesment>
+			<subject>maths</subject>
+			<title>test2</title>
+			<result>63%</result>
+		</assesment>
+		<assesment>
+			<subject>english</subject>
+			<title>essay1</title>
+			<result>C+</result>
+		</assesment>
+		<assesment>
+			<subject>english</subject>
+			<title>essay2</title>
+			<result>B+</result>
+		</assesment>
+		<assesment>
+			<subject>IT</subject>
+			<title>activity1</title>
+			<result>pass</result>
+		</assesment>
+		<assesment>
+			<subject>IT</subject>
+			<title>test2</title>
+			<result>32%</result>
+		</assesment>
+		<assesment>
+			<subject>IT</subject>
+			<title>essay3</title>
+			<result>C+</result>
+		</assesment>
+	</student>
+</student_results>	
+
+	
+	

@@ -1,0 +1,35 @@
+{
+"races": [
+	"Race 1":{
+		"type": "Flat",
+		"weather": "warm",
+		"horses": [
+			{
+				"birthday list": {
+					"age": 2,
+					"position":2}
+			},
+			{
+				"Goodtime": {
+					"age": 3,
+					"position": null}
+			},
+			{
+				"Black Jug": {
+					"age": 5,
+					 "position": 9}
+			},
+			{
+				"Plucky Pedro": {
+					"age": 6,
+					"position": null}
+			},
+			{
+				"Querty": {
+					"age": 3,
+					"position": 4}
+			}
+		],
+	},			 
+],				
+}
